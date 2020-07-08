@@ -15,4 +15,4 @@ I'm also a Hardware Engineer at [balena](https://balena.io) working on building 
 - 💬 Ask me about **partial reconfiguration, electronics, and programmable logic**
 - 📫 How to reach me: **[Twitter](https://twitter.com/AlexRBucknall)**
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
-- ⚡ Fun fact: **I ride a Moto Guzzi V7 MKI and talk way too much about it**
+- ⚡ Fun fact: **I own a Moto Guzzi V7 MKI and talk way too much about it**
