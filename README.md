@@ -7,7 +7,7 @@ I'm a PhD Researcher living in Coventry, United Kingdom.
 
 I'm currently undertaking my PhD in Reconfigurable Computing at Warwick University's [WARC](https://warwick.ac.uk/fac/sci/eng/research/grouplist/connectedsystems/warc/) group 
 
-I'm also a Hardware Engineer at [balena](https://balena.io) working on building tools for industrialising IoT.
+I'm also an Engineer at [balena](https://balena.io) working on building tools for industrialising IoT.
 
 - 🔭 I’m currently working on **a paper introducing new build tooling and frameworks for partial reconfiguration on the the Zynq Ultrascale+ family of devices**
 - 🌱 I’m currently learning **Rust, Migen, and Typescript**
