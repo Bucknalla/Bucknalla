@@ -15,5 +15,3 @@ I'm an Engineer at [balena](https://balena.io) working on building tools for ind
 - 📫 How to reach me: **[Twitter](https://twitter.com/AlexRBucknall)**
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
 - ⚡ Fun fact: **I own a Moto Guzzi V7 MKI and talk way too much about it**
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Bucknalla/langs)](https://githubtrends.io)
