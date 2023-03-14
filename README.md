@@ -7,9 +7,11 @@ I'm a Software/Hardware Engineer living in Brighton, United Kingdom.
 
 I recently finished a PhD in Reconfigurable Computing at Warwick University's [WARC](https://warwick.ac.uk/fac/sci/eng/research/grouplist/connectedsystems/warc/) group 
 
-I'm an Engineer at [balena](https://balena.io) working on building tools for industrialising IoT and managing fleets.
+Previously I was a Software Engineer at [balena](https://balena.io), working on tools for IoT fleet management and designing Hardware-in-Loop testing tooling.
 
-- 🌱 I’m currently learning **Rust, Amaranth, and Typescript**
+Currently I'm a Senior Embedded Software Engineering at [Arribada](https://arribada.org), developing open, customisable and impact-driven technologies for conservation organisations, working to support the goals of wildlife conservation.
+
+- 🌱 I’m currently learning **Zephyr, Amaranth, and Typescript**
 - 👯 I’m looking to collaborate on **open source tooling and frameworks for FPGAs & SoCs**
 - 💬 Ask me about **partial reconfiguration, electronics, and programmable logic**
 - 📫 How to reach me: **[Twitter](https://twitter.com/AlexRBucknall)**
