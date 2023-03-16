@@ -1,7 +1,7 @@
 ### Hi, I'm Alex 👋
 
 ![twitter badge](https://img.shields.io/badge/twitter-@AlexRBucknall-blue?style=flat-square&link=https://twitter.com/alexrbucknall&logo=twitter)
-![website badge](https://img.shields.io/badge/website-bucknall.codes-green?style=flat-square&link=https://bucknall.codes)
+![website badge](https://img.shields.io/badge/website-bucknalla.dev-green?style=flat-square&link=https://bucknalla.dev)
 
 I'm a Software/Hardware Engineer living in Brighton, United Kingdom.
 
