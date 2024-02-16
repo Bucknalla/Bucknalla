@@ -11,7 +11,7 @@ Previously I was a Software Engineer at [balena](https://balena.io), working on 
 
 Currently I'm a Senior Embedded Software Engineering at [Arribada](https://arribada.org), developing open, customisable and impact-driven technologies for conservation organisations, working to support the goals of wildlife conservation.
 
-- 🌱 I’m currently learning **Zephyr, Amaranth, and Typescript**
+- 🌱 I’m currently learning **Zephyr, Amaranth(HDL), and Typescript**
 - 👯 I’m looking to collaborate on **open source tooling and frameworks for FPGAs & SoCs**
 - 💬 Ask me about **partial reconfiguration, electronics, and programmable logic**
 - 📫 How to reach me: **[Twitter](https://twitter.com/AlexRBucknall)**
